@@ -1,0 +1,23 @@
+{
+  "name": "t-sample-bot",
+  "version": "1.0.0",
+  "description": "my first tg bot",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^3.34.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlacov/tg-sample-bot.git"
+  },
+  "author": "Nikolay Atlasovм",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlacov/tg-sample-bot/issues"
+  },
+  "homepage": "https://github.com/atlacov/tg-sample-bot#readme"
+}
